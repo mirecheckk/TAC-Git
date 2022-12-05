@@ -1,2 +1,3 @@
 # TAC-Git
-doplneni test
+doplneny test
+#oprava -> gramaticka chyba
